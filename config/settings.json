@@ -1,0 +1,14 @@
+{
+  "widgets": [
+	{
+	  "id": 1,
+	  "title": "ほげ1",
+	  "filename": "aaa.html"
+	},
+	{
+	  "id": 2,
+	  "title": "ほげ2",
+	  "filename": "bbb.html"
+	}
+  ]
+}
