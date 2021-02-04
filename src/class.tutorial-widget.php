@@ -11,22 +11,23 @@ namespace Ippey\TutorialWidget;
  * @property $title
  * @property $content
  */
-class TutorialWidget
-{
+class TutorialWidget {
 	public int $id;
 	public string $title;
 	public string $content;
 
 	/**
+	 * get widget name
 	 * @return string
 	 */
-	public function get_widget_name(): string
-	{
+	public function get_widget_name(): string {
 		return 'tutorial_widget_' . $this->id;
 	}
 
-	public function print_content():void
-	{
+	/**
+	 * print content
+	 */
+	public function print_content(): void {
 		echo $this->content;
 	}
 }
