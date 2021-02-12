@@ -2,12 +2,12 @@
   "widgets": [
 	{
 	  "id": 1,
-	  "title": "ほげ1",
+	  "title": "今夜はフィードバック",
 	  "filename": "aaa.html"
 	},
 	{
 	  "id": 2,
-	  "title": "ほげ2",
+	  "title": "ニュースリリースの更新について",
 	  "filename": "bbb.html"
 	}
   ]
